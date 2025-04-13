@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.List;
 public class TRFaces {
-    int w, x, y, z;
+    int x, y, z;
     public TRFaces(int x, int y, int z) {
         this.x = x;
         this.y = y;
